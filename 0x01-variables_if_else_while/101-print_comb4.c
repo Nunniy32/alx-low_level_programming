@@ -23,8 +23,8 @@ int main(void)
 					putchar(k);
 					if (!(i == '7' && j == '8' && k == '9'))
 					{
-	putchar(',');
-	putchar(' ');
+						putchar(',');
+						putchar(' ');
 					}
 				}
 				k++;
